@@ -16,6 +16,11 @@
   <title>Document</title>
 </head>
 <body>
-    <h1>Crear usuario</h1>
+  <div class="container">
+    <div class="users-form">
+      <h1>Crear usuario</h1>
+        <form action="controller/Insert.php" method="POST"></form>
+    </div>  
+  </div>  
 </body>
 </html>
