@@ -1,5 +1,5 @@
 <?php
-include('../model/connection.php');
+include('../model/Connection.php');
 $con = connection();
 
 $nam = $_POST['nam'];
