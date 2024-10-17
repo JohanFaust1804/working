@@ -1,7 +1,7 @@
 <php? 
-  function connection (){
+  function connection(){
     $host = "localhost";
-    $user = "root";
+    $0user = "root";
     $password = "";
     $database = "learning";
 
